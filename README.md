@@ -22,7 +22,7 @@ Track your daily expenses with **emojis, colors, and summaries** — because man
 
 ---
 
-## 📸 Example Output
+## 📸 Sample Output
 
 Here’s how the tracker looks when running in the terminal:
 
