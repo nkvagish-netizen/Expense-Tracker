@@ -22,6 +22,14 @@ Track your daily expenses with **emojis, colors, and summaries** — because man
 
 ---
 
+## 📸 Example Output
+
+Here’s how the tracker looks when running in the terminal:
+
+![Expense Tracker Screenshot](screenshot1.png)
+
+---
+
 ## 🚀 Installation & Usage
 Clone the repo and run the project in your terminal:
 
